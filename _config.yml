@@ -108,7 +108,7 @@ author:
   location         : "Seoul, Korea"
   email            : "kksks3192@gmail.com"
   links:
-    - label: "Email: kksks3192@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
@@ -129,14 +129,14 @@ author:
 # Site Footer
 footer:
   links:
-    #- label: "Twitter"
-      #icon: "fab fa-fw fa-twitter-square"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       # url:
-    #- label: "Facebook"
-      #icon: "fab fa-fw fa-facebook-square"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url:
-    #- label: "GitHub"
-      #icon: "fab fa-fw fa-github"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       # url:
     #- label: "GitLab"
       #icon: "fab fa-fw fa-gitlab"
